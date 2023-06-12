@@ -12,7 +12,7 @@ import zapateriagestion.Insercion;
 
 /**
  *
- * @author Nanes
+ * @author Nanes asdads
  */
 public class Agregar_numero extends javax.swing.JInternalFrame {
 
